@@ -5,6 +5,7 @@
  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
  ![C++](https://img.shields.io/badge/-C-00BFFF?&logo=C&logoColor=FFFFFF)
+ ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
  
  ### 📦 Databases:
  - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
