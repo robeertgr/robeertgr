@@ -25,7 +25,7 @@
  
  - <a href="https://www.instagram.com/robeertgr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?&logo=Instagram&logoColor=FFFFFF" target="_blank"></a>
  	<a href="https://www.twitch.tv/robeertgr" target="_blank"><img src="https://img.shields.io/badge/-Twitch-5C2D91?&logo=Twitch&logoColor=FFFFFF" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robeertgr" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1E90FF?&logo=Linkedin&logoColor=FFFFFF" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/robertgranja/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1E90FF?&logo=Linkedin&logoColor=FFFFFF" target="_blank"></a> 
  
  <hr>
 
