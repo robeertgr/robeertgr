@@ -1,4 +1,4 @@
-## Opa! Tudo certo? Chega mais! 🚀
+## Opa! Tudo certo? Chega mais. 🚀
   
  ### ⚡ Skills:
  - ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF) 
