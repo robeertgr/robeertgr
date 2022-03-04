@@ -12,7 +12,8 @@
  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
  
  ### 🧰 Tools:
- - ![PyCharm](https://img.shields.io/badge/-PyCharm-228B22?&logo=PyCharm&logoColor=FFFFFF)
+ - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-181717?&logo=IntellijIDEA&logoColor=#000000)
+ ![PyCharm](https://img.shields.io/badge/-PyCharm-228B22?&logo=PyCharm&logoColor=FFFFFF)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
  ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF)
  ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF)
