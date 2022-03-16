@@ -1,9 +1,9 @@
 ## Opa! Tudo certo? Chega mais. 🚀
   
  ### ⚡ Skills:
- - ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF) 
+ -  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
+ ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF) 
  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
- ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
  ![C++](https://img.shields.io/badge/-C-00BFFF?&logo=C&logoColor=FFFFFF)
  ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
  
