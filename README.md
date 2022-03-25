@@ -1,4 +1,4 @@
-## Opa! Tudo certo? Chega mais. 🚀
+## Hey guys! Welcome to my profile 🚀
   
  ### ⚡ Skills:
  -  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
