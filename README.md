@@ -1,17 +1,28 @@
-## Hey guys! Welcome to my profile 🚀
+## Hi there 👋🏻 - I am Robert!
+
+* ⚡ I am always open to solve a new challenge, learning and helping others;
+* 👨🏻‍💻 Currently I perform the role of Data Engineer Intern at IBM
+
+## About me
+
+* 📚 Bachelor in Science Computer - CEUNSP, 01/2019 - 12/2022;
+* 🎸 In my spare time, I enjoy playing guitar;
+* 📚 I enjoy reading books.
+
   
- ### ⚡ Skills:
+ ## ⚡ Skills
+ ### Technologies
  -  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
  ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF) 
  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
  ![C++](https://img.shields.io/badge/-C-00BFFF?&logo=C&logoColor=FFFFFF)
  ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
  
- ### 📦 Databases:
+ ### 📦 Databases
  - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF)
  
- ### 🧰 Tools:
+ ### 🧰 Tools
  - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-181717?&logo=IntellijIDEA&logoColor=#000000)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-228B22?&logo=PyCharm&logoColor=FFFFFF)
  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
@@ -21,7 +32,7 @@
  ![Trello](https://img.shields.io/badge/-Trello-0052CC?&logo=Trello&logoColor=FFFFFF)
  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?&logo=Visual%20Studio&logoColor=FFFFFF)
  
- ### ☎ Contact:
+ ## ☎ Contact
  
  
  - <a href="https://www.instagram.com/robeertgr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?&logo=Instagram&logoColor=FFFFFF" target="_blank"></a>
