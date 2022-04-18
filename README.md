@@ -13,10 +13,13 @@
  ## ⚡ Skills
  ### Technologies
  -  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
- ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF) 
+ ![Javascript](https://img.shields.io/badge/-Javascript-FFFF00?&logo=Javascript&logoColor=FFFFFF)
+ ![React](https://img.shields.io/badge/-React-696969?&logo=React&logoColor=FFFFFF)
+ ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
+ ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF)
  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
  ![C++](https://img.shields.io/badge/-C-00BFFF?&logo=C&logoColor=FFFFFF)
- ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
+
  
  ### 📦 Databases
  - ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF)
