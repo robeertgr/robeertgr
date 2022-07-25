@@ -13,7 +13,8 @@
  ## ⚡ Skills
  ### Technologies
  -  ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=FFFFFF)
- ![Javascript](https://img.shields.io/badge/-Javascript-FFFF00?&logo=Javascript&logoColor=FFFFFF)
+ ![Angular](https://img.shields.io/badge/-Angular-e63946?&logo=Angular&logoColor=FFFFFF)
+ ![Javascript](https://img.shields.io/badge/-Javascript-ffb703?&logo=Javascript&logoColor=FFFFFF)
  ![React](https://img.shields.io/badge/-React-696969?&logo=React&logoColor=FFFFFF)
  ![Typescript](https://img.shields.io/badge/-Typescript-00BFFF?&logo=Typescript&logoColor=FFFFFF)
  ![Python](https://img.shields.io/badge/-Python-B8860B?&logo=Python&logoColor=FFFFFF)
