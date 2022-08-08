@@ -1,7 +1,7 @@
 ## Hi there 👋🏻 - I am Robert!
 
 * ⚡ I am always open to solve a new challenge, learning and helping others;
-* 👨🏻‍💻 Currently I perform the role of Data Engineer Intern at IBM
+* 👨🏻‍💻 Currently I perform the role of Fullstack Developer at IBM
 
 ## About me
 
